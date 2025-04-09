@@ -72,4 +72,10 @@ yarn preview
 bun run preview
 ```
 
+Deployed Link
+
+```bash
+https://to-do-list-supriya.netlify.app/
+```
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

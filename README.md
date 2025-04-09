@@ -2,6 +2,9 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+Deployed Link
+[Todo List](https://to-do-list-supriya.netlify.app/)
+
 ## Setup
 
 Make sure to install dependencies:
@@ -70,12 +73,6 @@ yarn preview
 
 # bun
 bun run preview
-```
-
-Deployed Link
-
-```bash
-https://to-do-list-supriya.netlify.app/
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
